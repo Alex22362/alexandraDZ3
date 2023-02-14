@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\bin\Debug\net6.0\alexandraDZ3.exe
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\bin\Debug\net6.0\alexandraDZ3.deps.json
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\bin\Debug\net6.0\alexandraDZ3.runtimeconfig.json
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\bin\Debug\net6.0\alexandraDZ3.dll
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\bin\Debug\net6.0\alexandraDZ3.pdb
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.AssemblyInfo.cs
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.dll
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\refint\alexandraDZ3.dll
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.pdb
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\alexandraDZ3.genruntimeconfig.cache
+C:\Users\Александра\Desktop\tuesdaya14\alexandraDZ3\obj\Debug\net6.0\ref\alexandraDZ3.dll
